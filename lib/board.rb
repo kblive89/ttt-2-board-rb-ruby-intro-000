@@ -27,45 +27,39 @@ row[7]
 # Position 9: Right
 row[8]
 
-# Position 10: Right
-row[9]
+# Move X to the Position 1, Middle
+row[0] = "X"
+row #=> ["X", " ", " "]
 
 # Move X to the Position 2, Middle
 row[1] = "X"
 row #=> [" ", "X", " "]
 
-# Move X to the Position 2, Middle
-row[1] = "X"
+# Move X to the Position 3, Middle
+row[2] = "X"
+row #=> [" ", " ", "X"]
+
+# Move X to the Position 4, Middle
+row[3] = "X"
+row #=> ["X", " ", " "]
+
+# Move X to the Position 5, Middle
+row[4] = "X"
 row #=> [" ", "X", " "]
 
-# Move X to the Position 2, Middle
-row[1] = "X"
+# Move X to the Position 6, Middle
+row[5] = "X"
+row #=> [" ", " ", "X"]
+
+# Move X to the Position 7, Middle
+row[6] = "X"
+row #=> ["X", " ", " "]
+
+# Move X to the Position 8, Middle
+row[7] = "X"
 row #=> [" ", "X", " "]
 
-# Move X to the Position 2, Middle
-row[1] = "X"
-row #=> [" ", "X", " "]
+# Move X to the Position 9, Middle
+row[8] = "X"
+row #=> [" ", " ", "X"]
 
-# Move X to the Position 2, Middle
-row[1] = "X"
-row #=> [" ", "X", " "]
-
-# Move X to the Position 2, Middle
-row[1] = "X"
-row #=> [" ", "X", " "]
-
-# Move X to the Position 2, Middle
-row[1] = "X"
-row #=> [" ", "X", " "]
-
-# Move X to the Position 2, Middle
-row[1] = "X"
-row #=> [" ", "X", " "]
-
-# Move X to the Position 2, Middle
-row[1] = "X"
-row #=> [" ", "X", " "]
-
-# Move X to the Position 2, Middle
-row[1] = "X"
-row #=> [" ", "X", " "]
